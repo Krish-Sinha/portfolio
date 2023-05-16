@@ -41,7 +41,8 @@ const About = () => {
     </motion.div>
     
     <motion.p variants={fadeIn("","",0.1,1)} className='mt-4 text-secondary text-[17px] max-3-3xl leading-[30px]'>
-      Content
+    Welcome to my portfolio website! Here you will find a collection of my work and experiences as a Android and Web Developer
+As a Developer, I am passionate about making appplications that are useful in realworld. Through this portfolio, I aim to provide you with a glimpse into my abilities and the value I can bring to your organization or project.
     </motion.p>
     <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
