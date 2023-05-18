@@ -29,9 +29,9 @@ const Contact = () => {
         'template_zamfr0g',
         {
           from_name: form.name,
-          to_name: "Rajat",
+          to_name: "Krish",
           from_email: form.email,
-          to_email: "maini0202@gmail.com",
+          to_email: "krishsinha0304@gmail.com",
           message: form.message,
         },
         'aq5pvmsM_hS7dnuHi'
